@@ -42,7 +42,42 @@ The dataset includes airline records with attributes such as ticket price, depar
 
 ## Dashboard Highlights
 
-*(Add screenshots here once exported)*
+---
+
+### Dashboard Overview
+![Dashboard Overview](images/dashboard_overview.png)
+
+This overview dashboard provides a high-level summary of airline performance, enabling users to explore pricing, stoppages, and travel time patterns interactively.
+
+---
+
+### Travel Time Analysis
+![Travel Time Analysis](images/travel_time_analysis.png)
+
+This visualization highlights differences in total travel time across airlines and stoppage categories, revealing operational efficiency patterns.
+
+---
+
+### Ticket Price Analysis
+![Ticket Price Analysis](images/ticket_price_analysis.png)
+
+Ticket price trends show how stoppages and airline choice influence fare variations, helping identify premium and budget travel segments.
+
+---
+
+### Route Heatmap
+![Route Heatmap](images/route_heatmap.png)
+
+The route heatmap identifies high-traffic routes and travel demand clusters, supporting route optimization insights.
+
+---
+
+### Departure Patterns
+![Departure Patterns](images/departure_patterns.png)
+
+Departure time analysis highlights peak travel windows and airline scheduling behavior across major airports.
+
+---
 
 ---
 
