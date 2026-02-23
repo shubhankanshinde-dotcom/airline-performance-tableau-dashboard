@@ -52,7 +52,7 @@ This overview dashboard provides a high-level summary of airline performance, en
 ---
 
 ### Travel Time Analysis
-![Travel Time Analysis](images/travel_time_analysis.png)
+![Airline_Travel_Time](images/airline_travel_time.png)
 
 This visualization highlights differences in total travel time across airlines and stoppage categories, revealing operational efficiency patterns.
 
@@ -73,7 +73,7 @@ The route heatmap identifies high-traffic routes and travel demand clusters, sup
 ---
 
 ### Departure Patterns
-![Departure Patterns](images/departure_patterns.png)
+![Departure Pattern](images/departure_pattern.png)
 
 Departure time analysis highlights peak travel windows and airline scheduling behavior across major airports.
 
